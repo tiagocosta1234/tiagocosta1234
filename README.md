@@ -15,6 +15,7 @@ Two places to start:
 
 Currently learning: time-series statistics, market microstructure and writing reproducible research code.
 
-Open to internships and always happy to get feedback on my work.
+Open to internships and always happy to get feedback on my work: you can reach me on
+[LinkedIn](https://www.linkedin.com/in/tiago-costa-5848a9404/).
 
 **Tools:** Python, pandas, NumPy, statistics, MQL5, Pine Script, Git
