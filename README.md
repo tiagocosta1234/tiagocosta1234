@@ -1,10 +1,14 @@
 ## Tiago Costa
 
-Computer Engineering student at FCUL (3rd year). Most of my free time goes into quantitative
-trading research: I take a trading idea, test it on historical data with real costs, and usually
-find out it doesn't work.
+Third-year Computer Engineering student at FCUL, working towards a career in quantitative finance.
 
-All of it is in [beginner-quant-research](https://github.com/tiagocosta1234/beginner-quant-research):
-futures, then forex on MetaTrader 5, then back to futures.
+Over the past months I have been testing trading ideas on futures and forex data, and learning how
+to build fair backtests, include real trading costs and avoid fooling myself with the results. The
+full log, including the ideas that failed, is in
+[beginner-quant-research](https://github.com/tiagocosta1234/beginner-quant-research).
 
-Python · pandas · statistics · MQL5 · Pine Script
+Currently learning: time-series statistics, market microstructure and writing reproducible research code.
+
+Open to internships and always happy to get feedback on my work.
+
+**Tools:** Python, pandas, NumPy, statistics, MQL5, Pine Script, Git
