@@ -7,7 +7,11 @@ to build fair backtests, include real trading costs and avoid fooling myself wit
 full log, including the ideas that failed, is in
 [beginner-quant-research](https://github.com/tiagocosta1234/beginner-quant-research).
 
-Two places to start:
+Three places to start:
+- [Do 12-period EMA strategies work on futures?](https://github.com/tiagocosta1234/ema-futures-study):
+  a case study of 12 EMA strategies on 13 futures (2001–2026), with pass criteria written before any run,
+  walk-forward tests and cost stress. Fast EMA systems lose after costs; one slower system passed narrowly
+  and is a candidate to confirm on new data, not a proven edge.
 - [The statistics behind my tests](https://github.com/tiagocosta1234/beginner-quant-research/blob/master/docs/statistics.md):
   random-walk win rates, multiple testing and how much a Sharpe ratio is worth, checked by simulation.
 - [A result you can rerun](https://github.com/tiagocosta1234/beginner-quant-research/tree/master/drift_book):
